@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Torre Eiffel",
+    "city": "París",
+    "country": "Francia"
+  },
+  {
+    "id": 2,
+    "name": "Plaza de San Pedro",
+    "city": "Vaticano",
+    "country": "Vaticano"
+  },
+  {
+    "id": 3,
+    "name": "Pirámides de Guiza",
+    "city": "Guiza",
+    "country": "Egipto"
+  },
+  {
+    "id": 4,
+    "name": "Parque Natural Tayrona",
+    "city": "Sta. Marta",
+    "country": "Colombia"
+  },
+  {
+    "id": 5,
+    "name": "San Diego",
+    "city": "Cartagena",
+    "country": "Colombia"
+  },
+  {
+    "id": 6,
+    "name": "Torre Eiffel",
+    "city": "París",
+    "country": "Francia"
+  },
+  {
+    "id": 7,
+    "name": "Hollywood",
+    "city": "Los Ángeles",
+    "country": "Estados Unidos"
+  },
+  {
+    "id": 8,
+    "name": "Mouseo Louvre",
+    "city": "París",
+    "country": "Francia"
+  },
+  {
+    "id": 9,
+    "name": "Cibeles",
+    "city": "Madrid",
+    "country": "España"
+  },
+  {
+    "id": 10,
+    "name": "Estadio Monumental de River Plate",
+    "city": "Buenos Aires",
+    "country": "Argentina"
+  }
+]
